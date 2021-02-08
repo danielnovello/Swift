@@ -1,4 +1,5 @@
 #!/usr/bin/swift
+//To be used as an extension attribute for Jamf
 import Foundation
 
 //ByteCountFormatter
